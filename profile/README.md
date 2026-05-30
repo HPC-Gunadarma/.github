@@ -1,8 +1,8 @@
 <div align="center">
 
-# Universitas Gunadarma — HPC & AI Hub
+# High Performace Computing Universitas Gunadarma
 
-<a href="https://hpc.gunadarma.ac.id">
+<a href="[https://hpc.gunadarma.ac.id](https://www.hpc-hub.gunadarma.ac.id/)">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=76B900&center=true&vCenter=true&width=500&lines=High-Performance+Computing;Deep+Learning+%26+AI+Research;Big+Data+%26+Analytics;Nvidia+DGX+Infrastructure" alt="Focus areas" />
 </a>
 
@@ -16,8 +16,7 @@
 ---
 
 ## About
-
-The Universitas Gunadarma HPC & AI Hub is the university's dedicated center for high-performance computing, artificial intelligence research, and data science education. We operate one of Indonesia's most capable academic HPC environments, providing students and researchers with direct access to Nvidia DGX supercomputing infrastructure.
+High Performance Computing Universitas Gunadarma (HPC-UG) is the university's dedicated center for high-performance computing, artificial intelligence research, and data science education. We operate one of Indonesia's most capable academic HPC environments, providing students and researchers with direct access to Nvidia DGX supercomputing infrastructure.
 
 Our mission is to accelerate Indonesia's digital talent development through rigorous education and applied research in AI, deep learning, and large-scale data processing. We partner with Nvidia through the Deep Learning Institute (DLI) to deliver internationally certified training programs to students and faculty.
 
@@ -32,7 +31,7 @@ All systems are interconnected via Nvidia NVSwitch for high-bandwidth multi-GPU 
 
 ## Programs
 
-**Praktikum DGX**
+**MK Praktikum Unggulan UG**
 A flagship practical course giving all Universitas Gunadarma students direct hands-on access to Nvidia DGX supercomputers as part of their curriculum.
 → [Learn more](https://praktikum.gunadarma.ac.id)
 
@@ -41,11 +40,10 @@ Established through the Matching Fund Kedaireka program to build and accelerate 
 
 **Nvidia DLI Training**
 Official Nvidia Deep Learning Institute training and certification programs for students and faculty, covering deep learning fundamentals, computer vision, and natural language processing.
-→ [Nvidia DLI](https://www.nvidia.com/en-us/training/)
+→ [Nvidia DLI](https://www.hpc-hub.gunadarma.ac.id/kegiatan/pelatihan-deep-learning-institute)
 
 **Workshop Series**
 Regularly scheduled technical workshops including: Fundamentals of Python, Docker for Nvidia DGX, and Data Science for Non-Technical Audiences.
-→ [DGX Development Portal](https://dgx.gunadarma.ac.id)
 
 ---
 
@@ -53,24 +51,22 @@ Regularly scheduled technical workshops including: Fundamentals of Python, Docke
 
 Access the Nvidia DGX supercomputers through the university's practical course program.
 
-- [Praktikum DGX Portal](https://praktikum.gunadarma.ac.id) — request access and view course schedule
-- [DGX Development Portal](https://dgx.gunadarma.ac.id) — documentation, guides, and resources
-- [Official HPC Hub](https://hpc.gunadarma.ac.id) — announcements and upcoming workshops
+- [MK Praktikum Unggulan UG Website](https://www.praktikum-hpc.gunadarma.ac.id/home) — access and view course schedule
+- [DGX Access Link](https://www.praktikum-hpc.gunadarma.ac.id/pelaksanaan-praktikum/link-akses-dgx) — online DGX lab
 
 ## For Researchers & Partners
 
 We welcome research collaborations and institutional partnerships in AI, HPC, and data science.
 
-- Open an [Issue](https://github.com/ugcourse/.github/issues/new?template=research_proposal.md) using the Research Proposal template to discuss a collaboration
-- Contact us at `[RESEARCH_EMAIL]` for partnership inquiries
-- View our affiliated programs on the [Official HPC Hub](https://hpc.gunadarma.ac.id)
+- Contact us for partnership inquiries
+- View our affiliated programs on the [HPC Hub Website](https://www.hpc-hub.gunadarma.ac.id/pendaftaran/kerjasama)
 
 ---
 
 <div align="center">
 
-[HPC Hub](https://hpc.gunadarma.ac.id) · [Praktikum UG](https://praktikum.gunadarma.ac.id) · [DGX Portal](https://dgx.gunadarma.ac.id)
+[HPC Hub](https://www.hpc-hub.gunadarma.ac.id/) · [MK Praktikum Unggulan UG](https://www.praktikum-hpc.gunadarma.ac.id/)
 
-© Universitas Gunadarma. Faculty of Computer Science & Information Technology.
+© Universitas Gunadarma.
 
 </div>
