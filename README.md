@@ -10,7 +10,6 @@ or linked from here.
 
 If you have just joined the organization, complete these steps in order:
 
-- [ ] Request DGX access via the [access request form](https://dgx.gunadarma.ac.id/access)
 - [ ] Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) — covers workflow, commit conventions, and code review standards
 - [ ] Familiarize yourself with the repository naming conventions (see below)
 - [ ] Review the active Projects board to understand current priorities
@@ -27,7 +26,7 @@ across the organization.
 
 | Column | Meaning |
 |---|---|
-| **Backlog** | Identified work not yet started — prioritized but not assigned |
+| **Todo** | Identified work not yet started — prioritized but not assigned |
 | **In Progress** | Actively being worked on — must have an assignee |
 | **Review** | Work complete, awaiting code review or stakeholder sign-off |
 | **Done** | Merged, deployed, or formally closed |
@@ -90,8 +89,6 @@ that shares the same lifecycle as the parent project.
 
 ### Resource Links
 
-- [DGX Access Request Form](https://dgx.gunadarma.ac.id/access)
-- [Official HPC Hub](https://hpc.gunadarma.ac.id)
-- [Praktikum DGX Portal](https://praktikum.gunadarma.ac.id)
-- [DGX Development Portal](https://dgx.gunadarma.ac.id)
+- [MK Praktikum Unggulan UG Website](https://www.praktikum-hpc.gunadarma.ac.id/)
+- [HPC Hub Website](https://www.hpc-hub.gunadarma.ac.id/home)
 - [Organization Projects Board](https://github.com/orgs/ugcourse/projects)
