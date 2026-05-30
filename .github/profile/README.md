@@ -61,7 +61,7 @@ Access the Nvidia DGX supercomputers through the university's practical course p
 
 We welcome research collaborations and institutional partnerships in AI, HPC, and data science.
 
-- Open an [Issue](https://github.com/[ORG_NAME]/.github/issues/new?template=research_proposal.md) using the Research Proposal template to discuss a collaboration
+- Open an [Issue](https://github.com/ugcourse/.github/issues/new?template=research_proposal.md) using the Research Proposal template to discuss a collaboration
 - Contact us at `[RESEARCH_EMAIL]` for partnership inquiries
 - View our affiliated programs on the [Official HPC Hub](https://hpc.gunadarma.ac.id)
 
