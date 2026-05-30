@@ -31,18 +31,18 @@ All systems are interconnected via Nvidia NVSwitch for high-bandwidth multi-GPU 
 
 ## Programs
 
-**MK Praktikum Unggulan UG**
+- **MK Praktikum Unggulan UG**
 A flagship practical course giving all Universitas Gunadarma students direct hands-on access to Nvidia DGX supercomputers as part of their curriculum.
 → [Learn more](https://praktikum.gunadarma.ac.id)
 
-**AI Center of Excellence**
+- **AI Center of Excellence**
 Established through the Matching Fund Kedaireka program to build and accelerate the AI ecosystem within the university.
 
-**Nvidia DLI Training**
+- **Nvidia DLI Training**
 Official Nvidia Deep Learning Institute training and certification programs for students and faculty, covering deep learning fundamentals, computer vision, and natural language processing.
 → [Nvidia DLI](https://www.hpc-hub.gunadarma.ac.id/kegiatan/pelatihan-deep-learning-institute)
 
-**Workshop Series**
+- **Workshop Series**
 Regularly scheduled technical workshops including: Fundamentals of Python, Docker for Nvidia DGX, and Data Science for Non-Technical Audiences.
 
 ---
