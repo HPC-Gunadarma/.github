@@ -1,4 +1,4 @@
-# Universitas Gunadarma HPC & AI Hub — Member Guide
+# HPC UG — Member Guide
 
 This repository is the single source of truth for all standards, conventions, and workflows
 within this GitHub Organization. If you have a question about how we work, the answer is here
